@@ -1,0 +1,38 @@
+body {
+  background-color: #89d6d9;
+}
+.main-div {
+  width: 960px;
+  background-color: #ffffff;
+  margin: auto;
+  padding: 20px;
+}
+.second-div {
+  background-color: #dddddd;
+  margin-top: 19px;
+  padding: 10px;
+}
+
+/* table style*/
+table {
+  border-collapse: collapse;
+}
+table,
+th,
+td {
+  border: 1px solid #cccccc;
+  padding: 4px;
+}
+
+table td {
+  border: 1px solid #cccccc;
+  background-color: #f5f4f2;
+}
+th {
+  border-right: none;
+  text-align: center;
+  background-color: #ece7d7;
+}
+.border-remove {
+  border-bottom: hidden;
+}
